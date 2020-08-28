@@ -1,4 +1,4 @@
-# Python Basics
+# Basic Core Programs
 
-This repository contains the basic python programs that I have worked on during my fellowship from BridgeLabz.
+1. User Input and Replace String Template "Hello <<UserName>>, How are you?"
 
