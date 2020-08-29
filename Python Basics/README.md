@@ -4,6 +4,7 @@
 2. Accepts sequence of comma seperated numbers and generates list, tuple. (SeqCsnLstTpl.py)
 3. Display first and last colors from the list Red, Green, White, Black. (ColorList.py)
 5. Print the calendar of a given month and year. (Calendar.py)
+6. Calculate number of days between two dates. (DateDiff.py)
 
 ## Basic Core Programs
 
