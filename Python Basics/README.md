@@ -6,6 +6,7 @@
 4. Print the calendar of a given month and year. (Calendar.py)
 5. Calculate number of days between two dates. (DateDiff.py)
 6. Check whether a specified value is contained in a group of values. (ValValues.py)
+7. Create a histogram from given list of integers. (Histogram.py)
 
 ## Basic Core Programs
 
